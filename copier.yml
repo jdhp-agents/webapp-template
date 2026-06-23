@@ -1,4 +1,8 @@
 # questions
-project_name:
+PROJECT_NAME:
     type: str
     help: What is your project name?
+
+MAIN_MODEL_CLASS_NAME:
+    type: str
+    help: What is your main model name?
